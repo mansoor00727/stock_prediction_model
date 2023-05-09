@@ -1,0 +1,11 @@
+Libraries required for this project:
+	- pandas
+	-numpy
+	-yfinance
+	-datetime
+	-math
+	-matplotlib
+	-seaborn
+	-plotly
+	-sklearn
+	-keras
