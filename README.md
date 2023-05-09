@@ -1,4 +1,4 @@
-# Airbus Stock Analysis and Prediction
+# Airbus Stock Analysis and Forecasting
 
 The aim of this project is to analyse historical stock data of Airbus SE and build a predictive model to forecast future stock prices. The project uses Python and various data analysis and machine learning libraries to process and analyze the data.
 
