@@ -28,7 +28,7 @@ The project builds a predictive model using the LSTM deep learning algorithm. Th
 To run this project on your local machine, follow these steps:
 
 - Clone this repository to your local machine
-- Open the '.ipynb' notebook files in your Google Colab and simply run the code
+- Open the **'Airbus_Stock_Analysis.ipynb'** notebook file in your Google Colab and simply run the code
 
 Alternatively:
 
